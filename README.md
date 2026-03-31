@@ -229,3 +229,7 @@ The new Web UI (`gui.py`) brings the chatbot to a visually stunning interface wi
 - Python 3.10+
 - llama-server proxy running at `localhost:8000` (or configured URL)
 - PDFs with extractable text (OCR not supported)
+
+## Code Attribution and License
+
+Copyright (c) 2026 ASTRO-5444. This project is licensed under the MIT License. See `LICENSE` for full details.
