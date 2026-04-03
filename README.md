@@ -232,4 +232,4 @@ The new Web UI (`gui.py`) brings the chatbot to a visually stunning interface wi
 
 ## Code Attribution and License
 
-Copyright (c) 2026 ASTRO-5444. This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for full details.
+Copyright (c) 2026 ASTRO-5444. See [`LICENSE`](LICENSE) for full details.
